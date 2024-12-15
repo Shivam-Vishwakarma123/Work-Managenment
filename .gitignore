@@ -87,9 +87,10 @@ phpunit
 vendor/
 
 #-------------------------
-# Connection
+# Cron
 #-------------------------
-connection/
+crons/vendor/
+crons/connection/
 
 #-------------------------
 # IDE / Development Files
